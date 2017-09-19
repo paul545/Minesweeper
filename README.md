@@ -1,2 +1,5 @@
 # Minesweeper
 Minesweeper Project for CSCI 202
+
+
+Minesweeper class consists of a 2 dimensional array - an 8x8 board that consisting of 64 Cell objects.
